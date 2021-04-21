@@ -4,7 +4,7 @@ button.addEventListener('click', function () {
 
     if (inpCode.value === "9999") {
         console.log(2);
-        window.location.replace("communication.html");
+        window.location.replace("../MorseCodeAfgebeeldP2/communication.html");
     } else {
         console.log("ERROR")
     }
