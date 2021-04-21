@@ -25,6 +25,7 @@ body {
 
 .typewriter {
   overflow: hidden;
+  float: left;
   /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange;
   /* The typwriter cursor */
